@@ -1,4 +1,4 @@
-# BasicAt60
+# BasicAt62
 Arduino based model of Dartmouth Time Share System from 1964
 
 #### On May 1st, 1964 Dartmouth Professors Launch "Timesharing" System
